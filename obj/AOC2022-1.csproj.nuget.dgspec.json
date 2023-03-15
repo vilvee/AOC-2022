@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vvile\\Desktop\\AOC2022\\AOC2022-1\\AOC2022-1.csproj": {}
+    "C:\\Users\\vvile\\source\\repos\\vilvee\\AOC-2022\\Day 1\\AOC2022-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vvile\\Desktop\\AOC2022\\AOC2022-1\\AOC2022-1.csproj": {
+    "C:\\Users\\vvile\\source\\repos\\vilvee\\AOC-2022\\Day 1\\AOC2022-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vvile\\Desktop\\AOC2022\\AOC2022-1\\AOC2022-1.csproj",
+        "projectUniqueName": "C:\\Users\\vvile\\source\\repos\\vilvee\\AOC-2022\\Day 1\\AOC2022-1.csproj",
         "projectName": "AOC2022-1",
-        "projectPath": "C:\\Users\\vvile\\Desktop\\AOC2022\\AOC2022-1\\AOC2022-1.csproj",
+        "projectPath": "C:\\Users\\vvile\\source\\repos\\vilvee\\AOC-2022\\Day 1\\AOC2022-1.csproj",
         "packagesPath": "C:\\Users\\vvile\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vvile\\Desktop\\AOC2022\\AOC2022-1\\obj\\",
+        "outputPath": "C:\\Users\\vvile\\source\\repos\\vilvee\\AOC-2022\\Day 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vvile\\AppData\\Roaming\\NuGet\\NuGet.Config",
