@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vvile\\source\\repos\\vilvee\\AOC-2022\\Day 3\\Day 2\\Day 2.csproj",
+      "projectUniqueName": "C:\\Users\\vvile\\source\\repos\\vilvee\\AOC-2022\\Day 2\\Day 2.csproj",
       "projectName": "Day 2",
-      "projectPath": "C:\\Users\\vvile\\source\\repos\\vilvee\\AOC-2022\\Day 3\\Day 2\\Day 2.csproj",
+      "projectPath": "C:\\Users\\vvile\\source\\repos\\vilvee\\AOC-2022\\Day 2\\Day 2.csproj",
       "packagesPath": "C:\\Users\\vvile\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vvile\\source\\repos\\vilvee\\AOC-2022\\Day 3\\Day 2\\obj\\",
+      "outputPath": "C:\\Users\\vvile\\source\\repos\\vilvee\\AOC-2022\\Day 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vvile\\AppData\\Roaming\\NuGet\\NuGet.Config",
