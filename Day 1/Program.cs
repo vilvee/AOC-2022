@@ -27,7 +27,13 @@ namespace AOC2022_1
             }
             
             totals = totals.OrderByDescending(s => s).ToList();
-            Console.WriteLine(totals.First());  
+            Console.WriteLine(totals.First());
+
+            IEnumerable<int> topThree = totals.Take(3);
+
+            
+
+            Console.WriteLine(topThree.Sum());
             
             Console.ReadKey();
         }
