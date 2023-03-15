@@ -1,0 +1,17 @@
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\obj\Debug\net6.0\Day 2.csproj.AssemblyReference.cache
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\obj\Debug\net6.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\obj\Debug\net6.0\Day 2.AssemblyInfoInputs.cache
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\obj\Debug\net6.0\Day 2.AssemblyInfo.cs
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\obj\Debug\net6.0\Day 2.csproj.CoreCompileInputs.cache
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\bin\Debug\net6.0\Day 2.exe
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\bin\Debug\net6.0\Day 2.deps.json
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\bin\Debug\net6.0\Day 2.runtimeconfig.json
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\bin\Debug\net6.0\Day 2.dll
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\bin\Debug\net6.0\Day 2.pdb
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\obj\Debug\net6.0\Day 2.dll
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\obj\Debug\net6.0\refint\Day 2.dll
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\obj\Debug\net6.0\Day 2.pdb
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\obj\Debug\net6.0\Day 2.genruntimeconfig.cache
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\obj\Debug\net6.0\ref\Day 2.dll
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\bin\Debug\net6.0\play1.txt
+C:\Users\vvile\source\repos\vilvee\AOC-2022\Day 2\bin\Debug\net6.0\play.txt

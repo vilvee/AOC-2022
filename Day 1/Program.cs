@@ -12,7 +12,7 @@ namespace AOC2022_1
         {
             string[] text = File.ReadAllLines("Day1.txt");
             int sum = 0;
-            List<int> totals = new List<int>();
+            List<int> totals = new();
 
             foreach (string line in text)
             {
