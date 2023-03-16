@@ -25,8 +25,10 @@
                 Enum.TryParse(word[0], out Op ops);
                 Enum.TryParse(word[1], out Me me);
 
-                int playScore = WinLoseDraw(ops, me);
-                totalScore += playScore + (int)me;
+                int playScore = WinDarwLose(me);
+                int myScore = FindRPS(ops, me);
+                totalScore += playScore + myScore;
+                WriteLine(word[0] + word[1] + playScore + (int)ops + myScore);
             }
 
             Write(totalScore);
@@ -34,7 +36,50 @@
             ReadLine();
         }
 
-        static int WinLoseDraw(Op one, Me two)
+        static int WinDarwLose(Me me)
+        {
+            switch (me)
+            {
+                case Me.X:
+                    return 0;                     
+                case Me.Y:
+                    return 3;  
+                case Me.Z:
+                    return 6;
+                default: 
+                    return 10;
+            }
+        }
+
+        static int FindRPS(Op ops, Me me)
+        {
+            int value = WinDarwLose(me);
+
+            if (value == 0)
+            {
+                if (ops == Op.A) 
+                    return 3;
+                else if (ops == Op.B)
+                    return 1;
+                else
+                    return 2;
+            }
+            else if (value == 3)
+            {
+                return (int)ops;
+            }
+            else
+            {
+                if (ops == Op.A)
+                    return 2;
+                else if (ops == Op.B)
+                    return 3;
+                else
+                    return 1;
+            }
+
+        }
+        static int Score(Op one, Me two)
         {
             int lose = 0;
             int draw = 3;
